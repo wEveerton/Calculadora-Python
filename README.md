@@ -1,28 +1,53 @@
-# 🧮 Python Calculator
+# 🧮 Calculadora Python
 
-A simple calculator developed in Python as a study project.
+Uma calculadora gráfica desenvolvida em Python utilizando Tkinter.
 
-## 🚀 Features
+O projeto possui uma interface simples e moderna, suporte ao teclado e diferentes temas visuais.
+## 🖥️ Preview
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+![Calculadora Python](screenshots/calculadora.png)
 
-## 💻 Technologies
+
+- ➕ Adição
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
+- 🔢 Números decimais
+- 🧮 Parênteses
+- ⌫ Botão para apagar
+- 🧹 Botão para limpar
+- ⌨️ Suporte ao teclado
+- 🎨 6 temas diferentes
+- 💾 Salvamento automático do tema escolhido
+- ⚠️ Tratamento de divisão por zero
+
+## 🎨 Temas
+
+A calculadora possui os seguintes temas:
+
+- ⚫ Preto
+- 🔴 Vermelho
+- ⚪ Branco
+- 🟡 Amarelo
+- 🔵 Azul
+- 🟢 Verde
+
+O tema escolhido é salvo automaticamente e carregado quando a calculadora é aberta novamente.
+
+## 🛠️ Tecnologias
 
 - Python
+- Tkinter
 
-## 📥 Download
+## ▶️ Como executar
 
-You can download the Windows version from the [Releases](../../releases) page.
+É necessário ter Python instalado.
 
-## 📌 About the Project
+Execute:
 
-This project was developed to practice Python programming, logical thinking, and problem solving.
+```bash
+python calculadora_v2.py👨‍💻 Autor
 
-## 👨‍💻 Author
+Weverton
 
-**Weverton**
-
-Student of Analysis and Systems Development (ADS).
+Projeto desenvolvido para aprendizado e prática de programação em Python.
